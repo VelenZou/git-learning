@@ -15,3 +15,5 @@ create branch is simple and quick
 no conflict
 
 commit on develop
+
+no-ff
